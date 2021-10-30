@@ -17,6 +17,7 @@ function App() {
         >
           Learn React updates
         </a>
+        <h1>Teddy</h1>
       </header>
     </div>
   );
