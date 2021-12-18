@@ -41,7 +41,7 @@ export default function App() {
       rating: "6.4",
       story:
         "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
-    },
+    }, 
     {
       movie_name: "Spider-Man",
       poster:
